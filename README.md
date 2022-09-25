@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - I'm currently learning **React.js**
 - Website []()
 
-<div>
+<div align="left">
   <h3>Languages and Tools:</h3>
   <div>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
   </div>
 </div>
