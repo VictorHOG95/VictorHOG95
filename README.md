@@ -34,15 +34,32 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=victorhog95&label=Profile%20views&color=0e75b6&style=flat" alt="victorhog95" /> </p>
+
+
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhog95&show_icons=true&locale=en&layout=compact" alt="victorhog95" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=victorhog95&show_icons=true&locale=en" alt="victorhog95" /></p>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 💼 Languages and Tools
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
   </div>
+  
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 
