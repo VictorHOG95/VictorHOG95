@@ -13,23 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
-  <h3 align="center">Description in progress...</h3>
-</div>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://victorhog95.github.io/Portafolio/)
 
----
+<h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
+<h3 align="center">Hi 👋</h3>
 
-### About Me:
+<div id="" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left" margin="30px"> Description in progress...
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus sapien in ultricies porttitor. Integer quis eros est. Mauris lobortis, lorem sed fringilla auctor, nunc enim fringilla turpis, molestie ultricies velit sem at arcu. Vestibulum sed lacinia sem. Sed at interdum orci, nec volutpat elit. Vestibulum ac dolor vestibulum, mattis leo vestibulum, semper ante. Mauris a sapien libero. Ut eget ante sem.</p>
 
 - How to reach me **victorhog95@gmail.com**
 - I'm currently learning **React.js**
-- Website []()
+- Website []() 
+  </div>
 
-<div align="left">
-  <h3>Languages and Tools:</h3>
-  <div>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=victorhog95&label=Profile%20views&color=0e75b6&style=flat" alt="victorhog95" /> </p>
+
+## 💼 Languages and Tools
+
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
   </div>
-</div>
+
