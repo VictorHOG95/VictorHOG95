@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://victorhog95.github.io/Portafolio/)
+[![MasterHead](./assets/Banner.jpg)](https://victorhog95.github.io/Portafolio/)
 
 <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
 <h3 align="center">Hi 👋</h3>
