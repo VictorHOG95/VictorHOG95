@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 [![MasterHead](./assets/Banner.jpg)](https://victorhog95.github.io/Portafolio/)
 
 <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
+
+<div align="center">
+
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victor-hog/) 
+  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/victorhog)
+
+</div>
+  
 <h3 align="center">Hi 👋</h3>
 
 <div id="" >
