@@ -42,15 +42,18 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+< !-- Estadísticas de GitHub -- > 
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&langs_count=5&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://github.com/braydoncoyer">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&locale=es&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/braydoncoyer">
@@ -65,9 +68,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhog95&show_icons=true&locale=en&layout=compact" alt="victorhog95" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhog95&show_icons=true&locale=es" alt="victorhog95" /></p>
 
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=victorhog95&show_icons=true&locale=en" alt="victorhog95" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=victorhog95&show_icons=true&theme=gotham&locale=es" alt="victorhog95" /></p>
 </div>
 
 <br>
