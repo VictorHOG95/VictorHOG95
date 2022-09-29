@@ -42,14 +42,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-< !-- Estadísticas de GitHub -- > 
+<!-- Estadísticas de GitHub --> 
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&langs_count=5&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <a href="https://github.com/braydoncoyer">
@@ -62,29 +59,48 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorhog95&show_icons=true&locale=es" alt="victorhog95" /></p>
-
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=victorhog95&show_icons=true&theme=gotham&locale=es" alt="victorhog95" /></p>
-</div>
 
 <br>
 <br>
+
 <br>
 <br>
+
 <br>
 <br>
+
+
+
+
+
+
+
 
 ## 💼 Languages and Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
+ 
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
+<br>
+
+
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+  
 </div>
   
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+
