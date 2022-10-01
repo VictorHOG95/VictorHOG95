@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 [![MasterHead](./assets/Banner.jpg)](https://victorhog95.github.io/Portafolio/)
-
+<!--
 <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
-
+-->
 <div align="center">
 
   
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/victorhog)
 
 </div>
-  
-<h3 align="center">Hi 👋</h3>
 
 <div id="" >
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -82,19 +80,12 @@ Here are some ideas to get you started:
  
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-
 <br>
-
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
 <br>
-
-
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
 <br>
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
