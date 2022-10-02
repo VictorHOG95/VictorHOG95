@@ -45,10 +45,13 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&locale=es&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/VictorHOG95">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&locale=es&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</a>
 
-<img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=victorhog95&locale=es&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-
+<a href="https://github.com/VictorHOG95">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=victorhog95&locale=es&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
+</a>
 
 <br>
 <br>
