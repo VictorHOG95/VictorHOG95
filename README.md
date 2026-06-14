@@ -38,6 +38,18 @@ Here are some ideas to get you started:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus sapien in ultricies porttitor. Integer quis eros est. Mauris lobortis, lorem sed fringilla auctor, nunc enim fringilla turpis, molestie ultricies velit sem at arcu. Vestibulum sed lacinia sem. Sed at interdum orci, nec volutpat elit. Vestibulum ac dolor vestibulum, mattis leo vestibulum, semper ante. Mauris a sapien libero. Ut eget ante sem.
   </p>
 
+  # Hi, I'm Victor Hugo Ortega 👋
+
+🎓 Systems Engineering Student
+
+💻 Backend Development Enthusiast
+
+🌱 Currently learning Python, Java, SQL and REST APIs
+
+🚀 Interested in Software Development, Artificial Intelligence and Machine Learning
+
+📍 Cali, Colombia
+
   - How to reach me **victorhog95@gmail.com**
   - I'm currently learning **React.js**
   - Website []()
