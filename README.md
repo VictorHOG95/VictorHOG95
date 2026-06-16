@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/victor-hog/" target="_blank">
+<a href="www.linkedin.com/in/victor-hugo-ortega-gomez" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 <a href="https://codepen.io/victorhog" target="_blank">
