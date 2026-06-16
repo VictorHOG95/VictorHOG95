@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](./assets/BannerGithub.png)](https://victorhog95.github.io/Portafolio/)
+[![MasterHead](./assets/BannerGithub.jpg)](https://victorhog95.github.io/Portafolio/)
 <!--
 <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
 -->
