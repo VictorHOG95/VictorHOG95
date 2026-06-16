@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!-- Estadísticas de GitHub --> 
 
-## &#x1f4c8; Estadísticas de GitHub
+## &#x1f4c8; GitHub Statistics
 
 <br>
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## 💼 Lenguajes Y Herramientas De programación
+## 💼 Programming Languages ​​and Tools
 
 <div>
  
