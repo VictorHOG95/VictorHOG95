@@ -44,18 +44,16 @@ Here are some ideas to get you started:
 
 💻 Backend Development 
 
-🌱 Currently learning NodeJS
+🌱 Expanding knowledge in backend technologies and software architecture
 
 🚀 How to reach me **victorhog95@gmail.com**
 
-    Website []()
+🌐 Website [victorhog95.github.io](https://victorhog95.github.io/Portafolio/)
 
 📍 Cali, Colombia
 
 </div>
 
-<br>
-<br>
 
 <!-- Estadísticas de GitHub --> 
 
