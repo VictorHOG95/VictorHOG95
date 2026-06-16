@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/victor-hog/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>  
 <a href="https://codepen.io/victorhog" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%2324292e.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
@@ -33,23 +33,27 @@ Here are some ideas to get you started:
 <div id="" >
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-  <p align="left" margin="30px"> Description in progress...
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus sapien in ultricies porttitor. Integer quis eros est. Mauris lobortis, lorem sed fringilla auctor, nunc enim fringilla turpis, molestie ultricies velit sem at arcu. Vestibulum sed lacinia sem. Sed at interdum orci, nec volutpat elit. Vestibulum ac dolor vestibulum, mattis leo vestibulum, semper ante. Mauris a sapien libero. Ut eget ante sem.
+  <p align="left" margin="30px"> 
+    Systems Engineering student focused on backend development, data management, and software engineering.
+    This profile showcases academic and personal projects built with different technologies as part of my software development training.
+    Currently exploring Artificial Intelligence and Machine Learning while strengthening my knowledge of software design, databases, and backend systems.
+    Open to collaboration, learning opportunities, and software development projects.
   </p>
 
 🎓 Systems Engineering Student
 
-💻 Backend Development Enthusiast
+💻 Backend Development 
 
-🌱 Currently learning Python, Java, SQL and REST APIs
+🌱 Currently learning NodeJS
 
 🚀 Interested in Software Development, Artificial Intelligence and Machine Learning
 
+How to reach me **victorhog95@gmail.com**
+
+Website []()
+
 📍 Cali, Colombia
 
-  - How to reach me **victorhog95@gmail.com**
-  - I'm currently learning **React.js**
-  - Website []()
 </div>
 
 <br>
