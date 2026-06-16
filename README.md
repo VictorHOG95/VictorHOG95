@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I´m Victor Hugo Ortega gomez</h1>
 -->
 <div align="center">
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victor-hog/) 
-  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/victorhog)
 
 <a href="https://www.linkedin.com/in/victor-hog/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,14 +28,14 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+
 <div id="" >
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <p align="left" margin="30px"> Description in progress...
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus sapien in ultricies porttitor. Integer quis eros est. Mauris lobortis, lorem sed fringilla auctor, nunc enim fringilla turpis, molestie ultricies velit sem at arcu. Vestibulum sed lacinia sem. Sed at interdum orci, nec volutpat elit. Vestibulum ac dolor vestibulum, mattis leo vestibulum, semper ante. Mauris a sapien libero. Ut eget ante sem.
   </p>
-
-  # Hi, I'm Victor Hugo Ortega 👋
 
 🎓 Systems Engineering Student
 
@@ -68,9 +65,7 @@ Here are some ideas to get you started:
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhog95&locale=es&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
-<a href="https://github.com/VictorHOG95">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=victorhog95&locale=es&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
-</a>
+
 
 <br>
 <br>
