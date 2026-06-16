@@ -46,11 +46,9 @@ Here are some ideas to get you started:
 
 🌱 Currently learning NodeJS
 
-🚀 Interested in Software Development, Artificial Intelligence and Machine Learning
+🚀 How to reach me **victorhog95@gmail.com**
 
-How to reach me **victorhog95@gmail.com**
-
-Website []()
+    Website []()
 
 📍 Cali, Colombia
 
